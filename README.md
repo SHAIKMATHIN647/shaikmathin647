@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shaik Mathin</h1>
 <h3 align="center">Passionate Frontend Developer | Aspiring Software Engineer focused on building clean, user-friendly web applications from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikmathin647&label=Profile%20views&color=0e75b6&style=flat" alt="shaikmathin647" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaikmathin647" alt="shaikmathin647" /></a> </p>
-
 - 🔭 I’m currently working on **Bank website and Finance Management Dashboard**
 
 - 🌱 I’m currently learning **JavaScript, WordPress, React JS, Node JS, Mongo DB**
 
 - 📫 How to reach me **shaikmathin647@gmail.com**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
